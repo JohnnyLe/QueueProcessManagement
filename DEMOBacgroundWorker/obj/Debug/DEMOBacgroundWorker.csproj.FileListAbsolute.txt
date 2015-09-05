@@ -1,0 +1,7 @@
+D:\Project\GAF\DEMOBacgroundWorker\DEMOBacgroundWorker\bin\Debug\DEMOBacgroundWorker.exe
+D:\Project\GAF\DEMOBacgroundWorker\DEMOBacgroundWorker\bin\Debug\DEMOBacgroundWorker.pdb
+D:\Project\GAF\DEMOBacgroundWorker\DEMOBacgroundWorker\obj\Debug\DEMOBacgroundWorker.csprojResolveAssemblyReference.cache
+D:\Project\GAF\DEMOBacgroundWorker\DEMOBacgroundWorker\obj\Debug\DEMOBacgroundWorker.exe
+D:\Project\GAF\DEMOBacgroundWorker\DEMOBacgroundWorker\obj\Debug\DEMOBacgroundWorker.pdb
+D:\Project\Open Source Contribute\DEMOBacgroundWorker\DEMOBacgroundWorker\obj\Debug\DEMOBacgroundWorker.exe
+D:\Project\Open Source Contribute\DEMOBacgroundWorker\DEMOBacgroundWorker\obj\Debug\DEMOBacgroundWorker.pdb
