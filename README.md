@@ -1,1 +1,1 @@
-This demo how to build Simple Queue Management for handling multiple process & scale 
+The demo how to build a Simple Queue Management for handling multiple process & scale 
